@@ -1,0 +1,2 @@
+from .legend_create_entity import LegendCreateEntity
+from .legend_entity import LegendEntity
