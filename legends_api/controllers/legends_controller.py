@@ -153,7 +153,7 @@ def delete(response: Response, legend_id: UUID, legend_bl: LegendBL = Depends(ge
     - `ApiResponse`: Estructura de respuesta con el estado y mensaje del resultado.
 
     **Posibles respuestas**:
-    - ✅ `200 OK`: La leyenda se ha eliminado correctamente.
+    - ✅ `204 No Content`: La leyenda se ha eliminado correctamente.
     - ❌ `400 Bad Request`: `legend_id` no fue proporcionado o no tiene un formato válido.
     - ⚠️ `404 Not Found`: La leyenda no existe en la base de datos.
     - ⚠️ `500 Internal Server Error`: Ocurrió un error inesperado en el servidor.
