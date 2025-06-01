@@ -38,7 +38,7 @@ Diagrama **Entidad-Relación (ER)** de la Base de Datos MySQL.
 ## 🖼️ Imágenes
 ![demo_0](https://raw.githubusercontent.com/tetohc/MediaResources/refs/heads/main/images/covers/demo_legends_api_0.png)
 
-![demo_1](https://raw.githubusercontent.com/tetohc/MediaResources/refs/heads/main/images/covers/demo_legends_api.png)
+![demo_1](https://raw.githubusercontent.com/tetohc/MediaResources/refs/heads/main/images/covers/demo_legends_api_1.png)
 
 ## 🚀 Instalación
 

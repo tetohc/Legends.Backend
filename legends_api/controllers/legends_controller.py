@@ -47,7 +47,7 @@ def create(response: Response, create_entity: LegendCreateEntity, legend_bl: Leg
     - `ApiResponse`: Estructura de respuesta con el estado, mensaje y datos procesados.
 
     **Posibles respuestas**:
-    - ✅ `201 Created`: La leyenda se ha creado correctamente correctamente. 
+    - ✅ `201 Created`: La leyenda se ha creado correctamente. 
     - ❌ `400 Bad Request`: Datos inválidos. La solicitud no cumple con los requisitos esperados.
     - ⚠️ `500 Internal Server Error`: Ocurrió un error inesperado en el servidor.
     """
